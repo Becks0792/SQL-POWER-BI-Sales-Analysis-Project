@@ -42,6 +42,6 @@
   9. **Performance Insights:**
      - **Year on Year Revenue & Profit Margin%:** For 2017 vs 2018 AND 2018 vs 2019- There was no significant Revenue growth as well as Profit % in the Year 2018.
         In fact, the profit margin % dropped significantly to **1.75%** at end of Dec 2019 as compared to **4.93%** in Jan 2019.
-        June 2020 recorded the lowest revenue of **14.7M** due to COVID and profit margins to **1.29%** showing extreme Covid impact on the business.
+      - June 2020 recorded the lowest revenue of **14.7M** due to COVID and profit margins to **1.29%** showing extreme Covid impact on the business.
         
     
